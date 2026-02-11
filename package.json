@@ -1,0 +1,12 @@
+{
+  "name": "studyhub-multi-vercel-proxy",
+  "version": "1.0.0",
+  "description": "Multi-site Proxy on Vercel with JSON config",
+  "main": "api/proxy.js",
+  "scripts": {
+    "start": "node api/proxy.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
